@@ -1,0 +1,36 @@
+{
+  "siteUrl": "https://catchkill9.github.io/travelling-stones/",
+  "siteUrlShort": "catchkill9.github.io/travelling-stones",
+  "title": "Travelling Stones",
+  "tagline": "Find a painted stone. Log it. Hide it again!",
+  "intro": "Kids in a class in Dublin, Ireland, each painted and named a stone. One side is a little picture. The other side says Travelling Stones and the address of this website. The stones are going on adventures all over the world, and this map shows where they have been.",
+  "steps": [
+    { "emoji": "🔍", "title": "Find", "text": "Spot a painted stone? Look on the back for \"Travelling Stones\" and this website address." },
+    { "emoji": "✍️", "title": "Log", "text": "Open this site, tap \"I found a stone!\", pick the stone, the country and the kind of place. Then tap the map to show roughly where you are." },
+    { "emoji": "🌍", "title": "Re-hide", "text": "Take the stone somewhere new and hide it where the next finder can spot it. Then log the new hiding place, so the stone keeps travelling!" }
+  ],
+  "safeTitle": "Safe hiding rules",
+  "safeRules": [
+    "Hide stones only in public places that are fun and safe, like parks, beaches, woods, town squares and gardens.",
+    "Never on a path or road, in water, or near cliffs and edges. Tuck it next to a tree, a wall or a bench where nobody can trip on it.",
+    "Not near someone's house, a school or private land, and never inside a shop or building.",
+    "Always with a grown-up when you are young. A grown-up helps you log the stone online.",
+    "Be kind to nature: don't hide stones in nature reserves, on beaches with nesting birds, or on monuments.",
+    "Never write or post your name, your address or a photo of a person. This site never asks for them."
+  ],
+  "privacyNotes": [
+    "No names, no photos of people and no free-text boxes: you only pick from lists.",
+    "The map dots are rounded to about 1 km, so nobody can find an exact spot.",
+    "A grown-up checks every log before it shows on the map."
+  ],
+  "placeTypes": [
+    "Park", "Beach", "Woods or forest", "Town or village square", "Garden or botanic garden",
+    "Playground", "Castle or heritage grounds", "Hill or mountain viewpoint", "Harbour or seafront", "Another safe public place"
+  ],
+  "actions": [
+    { "id": "found", "label": "I found it! 🔍" },
+    { "id": "hid", "label": "I hid it again here 📍" }
+  ],
+  "backLabel": "Travelling Stones - find, log, hide",
+  "footer": "A class project from Dublin, Ireland. Made with Leaflet and OpenStreetMap."
+}

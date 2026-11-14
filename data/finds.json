@@ -1,0 +1,14 @@
+{
+  "_note": "Approved finds only. Coordinates are rounded to 2 decimals (about 1 km). date = YYYY-MM-DD. action = found | hid. Order matters: the journey line follows this order per stone. All entries below are DEMO.",
+  "finds": [
+    { "stone": "DEMO-01", "action": "hid",   "date": "2026-11-20", "country": "IE", "place": "Park",                      "lat": 53.36, "lng": -6.33, "demo": true },
+    { "stone": "DEMO-01", "action": "found", "date": "2026-12-27", "country": "GB", "place": "Beach",                     "lat": 50.34, "lng": -5.15, "demo": true },
+    { "stone": "DEMO-01", "action": "hid",   "date": "2026-12-27", "country": "GB", "place": "Beach",                     "lat": 50.35, "lng": -5.16, "demo": true },
+    { "stone": "DEMO-01", "action": "found", "date": "2027-04-03", "country": "ES", "place": "Park",                      "lat": 41.41, "lng": 2.15,  "demo": true },
+    { "stone": "DEMO-02", "action": "hid",   "date": "2026-11-21", "country": "IE", "place": "Hill or mountain viewpoint", "lat": 53.27, "lng": -6.25, "demo": true },
+    { "stone": "DEMO-02", "action": "found", "date": "2027-02-15", "country": "FR", "place": "Garden or botanic garden",  "lat": 48.86, "lng": 2.34,  "demo": true },
+    { "stone": "DEMO-02", "action": "found", "date": "2027-07-09", "country": "IT", "place": "Town or village square",    "lat": 43.77, "lng": 11.25, "demo": true },
+    { "stone": "DEMO-03", "action": "hid",   "date": "2026-11-22", "country": "IE", "place": "Woods or forest",           "lat": 53.17, "lng": -6.35, "demo": true },
+    { "stone": "DEMO-03", "action": "found", "date": "2027-01-05", "country": "IS", "place": "Harbour or seafront",       "lat": 64.15, "lng": -21.94, "demo": true }
+  ]
+}

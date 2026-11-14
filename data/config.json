@@ -1,0 +1,13 @@
+{
+  "_note": "SUBMISSIONS BACKEND. mode 'demo' = logs are kept on this device only (nothing is sent). To go live, set mode to 'googleform' and fill action + entries (see README). Never put any email address here.",
+  "mode": "demo",
+  "formAction": "PLACEHOLDER_GOOGLE_FORM_formResponse_URL",
+  "entries": {
+    "stone": "entry.0000000001",
+    "action": "entry.0000000002",
+    "country": "entry.0000000003",
+    "place": "entry.0000000004",
+    "lat": "entry.0000000005",
+    "lng": "entry.0000000006"
+  }
+}

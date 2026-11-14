@@ -1,0 +1,8 @@
+{
+  "_note": "Add the class's real stones here. code = what is written on the back (keep short, e.g. TS-01). name = the stone's name (never a child's name). painted = describe the painted side, no people. colors = two CSS colours for the gallery picture. emoji = one emoji. Remove demo:true for real stones.",
+  "stones": [
+    { "code": "DEMO-01", "name": "Sandy the Starfish", "painted": "A sea-blue stone with an orange starfish and little white bubbles.", "emoji": "⭐", "colors": ["#2bb3e0", "#0b6fa4"], "demo": true },
+    { "code": "DEMO-02", "name": "Rainbow Ridge", "painted": "A big rainbow arching over a green hill, with a yellow sun in the corner.", "emoji": "🌈", "colors": ["#ffd23f", "#ee6c4d"], "demo": true },
+    { "code": "DEMO-03", "name": "Moonlight Owl", "painted": "A purple night sky with a silver moon, stars and a sleepy round owl.", "emoji": "🦉", "colors": ["#7b5cd6", "#2b1b6b"], "demo": true }
+  ]
+}
